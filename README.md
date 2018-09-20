@@ -2,7 +2,7 @@
 
 This repository is used to publish information about any significant updates to PackAware.
 
-Subscribe ("Watch") this repository to receive notifications of significant updates to PackAware. 
+Subscribe ("Watch") this repository to receive notifications of updates by email. 
 
 The published updates can be viewed at https://packaware.com/Support/Service-updates.
 
